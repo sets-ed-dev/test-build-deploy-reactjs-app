@@ -1,3 +1,5 @@
+Lesson #23 from Dave Gray's ReactJS YouTube course.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
