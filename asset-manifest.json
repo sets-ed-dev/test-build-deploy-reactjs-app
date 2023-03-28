@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-build-deploy-reactjs-gh-pages/static/css/main.d245b3a5.css",
+    "main.js": "/test-build-deploy-reactjs-gh-pages/static/js/main.6e71764c.js",
+    "index.html": "/test-build-deploy-reactjs-gh-pages/index.html",
+    "main.d245b3a5.css.map": "/test-build-deploy-reactjs-gh-pages/static/css/main.d245b3a5.css.map",
+    "main.6e71764c.js.map": "/test-build-deploy-reactjs-gh-pages/static/js/main.6e71764c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d245b3a5.css",
+    "static/js/main.6e71764c.js"
+  ]
+}
